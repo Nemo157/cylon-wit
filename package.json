@@ -1,0 +1,28 @@
+{
+  "name": "cylon-wit",
+  "version": "1.0.0",
+  "description": "http://cylonjs.com adaptor and driver for http://wit.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wim Looman <ghostunderscore@gmail.com> (http://nemo157.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nemo157/cylon-wit"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "devDependencies": {
+    "cylon": "^0.22.1"
+  },
+  "peerDependencies": {
+    "cylon": "^0.22.1"
+  },
+  "dependencies": {
+    "node-wit": "^2.0.0"
+  }
+}
