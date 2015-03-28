@@ -1,6 +1,8 @@
 cylon-wit
 =========
 
+[![travis-ci](https://img.shields.io/travis/Nemo157/cylon-wit?style=flat-square)](https://travis-ci.org/Nemo157/cylon-wit)
+[![npm-version](https://img.shields.io/npm/v/cylon-wit?style=flat-square)](https://www.npmjs.com/package/cylon-wit)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/feross/standard)
 
 How to Install
