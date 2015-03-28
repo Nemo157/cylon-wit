@@ -4,7 +4,7 @@
   "description": "http://cylonjs.com adaptor and driver for http://wit.ai",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "author": "Wim Looman <ghostunderscore@gmail.com> (http://nemo157.com)",
   "license": "MIT",
@@ -17,7 +17,8 @@
     "index.js"
   ],
   "devDependencies": {
-    "cylon": "^0.22.1"
+    "cylon": "^0.22.1",
+    "standard": "^3.3.0"
   },
   "peerDependencies": {
     "cylon": "^0.22.1"
